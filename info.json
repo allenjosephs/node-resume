@@ -1,0 +1,12 @@
+{
+  "name": "Joseph Allen",
+  "website": "http://foaas.com",
+  "email": "allen.jscott@gmail.com",
+  "resume": "https://tomatohammado.github.io/assets/Malik-Hammad-Resume.pdf",
+  "proficientTechnologies": [
+    "Javascript",
+    "React",
+    "Node",
+  ],
+  "interests": ["hiking", "strategy board games"]
+}
